@@ -2,7 +2,7 @@
   <div id="app">
     <nav class="navbar navbar-expand-lg bg-body-tertiary shadow-sm px-5 py-3">
       <div class="container-fluid">
-        <a class="navbar-brand" href="#">NewJeans</a>
+        <router-link class="navbar-brand" to="/">NewJeans</router-link>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarColor04" aria-controls="navbarColor04" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>

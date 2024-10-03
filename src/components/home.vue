@@ -12,7 +12,7 @@ export default {
   data () {
     return {
       intro: 'Meet NewJeans',
-      desc: 'NewJeans is a groundbreaking South Korean girl group formed by ADOR, a subsidiary of HYBE. Since their debut in August 2022, they have quickly captured the hearts of fans worldwide with their fresh sound and innovative style'
+      desc: 'NewJeans is a groundbreaking South Korean girl group formed by ADOR, a subsidiary of HYBE. Since their debut in August 2022, they have quickly captured the hearts of fans worldwide with their fresh sound and innovative style.'
     }
   }
 }
